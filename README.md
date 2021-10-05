@@ -4,7 +4,7 @@
 <img src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" width="90"/>](https://castmonkeys.com)
 
 ## @rocketbean
-- 🔭 I’m currently working on shooting hooks at stars
-- 🤔 and need help at pulling them closer
+- ⭐ I’m currently working on shooting hooks at stars
+- 🪝 and need help at pulling them closer
 - ⚡ Fun fact: all in terms of code
  
